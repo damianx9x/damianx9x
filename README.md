@@ -6,7 +6,7 @@ Tworzę aplikacje i automatyzacje, które rozwiązują konkretne problemy. Łąc
 
 | Projekt | Co tworzę | Prezentacja |
 | :--- | :--- | :--- |
-| **JARVIS** | Osobisty asystent AI łączący kontekst, narzędzia i organizację pracy. | [Karta projektu →](projects/jarvis.md) |
+| **JARVIS** | Osobisty asystent AI porządkujący wiedzę, kontekst i zadania oraz wspierający pracę nad projektami. | [Karta projektu →](projects/jarvis.md) |
 | **eDziennik** | Aplikacja webowa wspierająca organizację szkoły językowej. | [Karta projektu →](projects/edziennik.md) |
 | **OpenTicket** | System obsługi zgłoszeń dla serwisów elektroniki. | [Repozytorium i kod →](https://github.com/damianx9x/OpenTicket) |
 | **Ekspertyka** | Portal narzędziowy: GeoWyceny, dokumenty i raporty. | [Karta projektu →](projects/ekspertyka.md) · [Strona ↗](https://ekspertyka.pl/) |

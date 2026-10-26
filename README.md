@@ -8,13 +8,13 @@ Tworzę aplikacje i automatyzacje, które rozwiązują konkretne problemy. Łąc
 | :--- | :--- | :--- |
 | **JARVIS** | Osobisty asystent AI łączący kontekst, narzędzia i organizację pracy. | [Karta projektu →](projects/jarvis.md) |
 | **eDziennik** | Aplikacja webowa wspierająca organizację szkoły językowej. | [Karta projektu →](projects/edziennik.md) |
+| **OpenTicket** | System obsługi zgłoszeń dla serwisów elektroniki. | [Karta projektu →](projects/openticket.md) |
 | **Ekspertyka** | Portal narzędziowy: GeoWyceny, dokumenty i raporty. | [Karta projektu →](projects/ekspertyka.md) · [Strona ↗](https://ekspertyka.pl/) |
 
 Powyższe karty pokazują zastosowanie i zakres mojej pracy. Kod źródłowy, konfiguracja i dane tych projektów pozostają prywatne.
 
 ## Publiczne repozytoria
 
-- **[OpenTicket](https://github.com/damianx9x/OpenTicket)** — system obsługi zgłoszeń dla serwisów elektroniki; aplikacja webowa i desktopowa.
 - **[LGOFFB](https://github.com/damianx9x/LGOFFB)** — generator skryptu offboardingu Google Workspace z instrukcją i trybem DRY RUN.
 - **[Lampa Portal S3](https://github.com/damianx9x/lampkav2)** — projekt lampy LED z ESP32, interfejsem webowym i animacjami.
 

@@ -2,7 +2,7 @@
 
 **System obsługi zgłoszeń dla serwisów elektroniki**
 
-[← Portfolio](../README.md)
+[← Portfolio](../README.md) · [Repozytorium i kod](https://github.com/damianx9x/OpenTicket) · [Wydania](https://github.com/damianx9x/OpenTicket/releases)
 
 ## Cel
 Uporządkowanie pracy serwisu: od przyjęcia urządzenia i opisu problemu po śledzenie etapów, kosztów i historii zgłoszenia.
@@ -17,4 +17,4 @@ Uporządkowanie pracy serwisu: od przyjęcia urządzenia i opisu problemu po śl
 ## Status
 Projekt w linii pre-alpha. Publiczna karta przedstawia zakres produktu; nie jest deklaracją gotowości produkcyjnej wszystkich wariantów i instalatorów.
 
-**Ta karta skupia się na produkcie i jego zastosowaniu; nie zawiera kodu ani konfiguracji.**
+**Kod projektu jest publicznie dostępny w repozytorium OpenTicket. Wybór licencji open source pozostaje do zatwierdzenia przez autora.**

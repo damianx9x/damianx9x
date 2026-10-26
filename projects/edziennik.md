@@ -16,6 +16,10 @@ Rozwijam eDziennik dla szkoły językowej: aplikację webową wspierającą codz
 - Komunikacja oraz praca z materiałami i zadaniami.
 - Rozwój interfejsu na podstawie informacji zwrotnych użytkowników.
 
+## Dla kogo powstaje
+
+Projekt odpowiada na potrzeby szkoły językowej, w której z tych samych informacji korzystają różne osoby. Administracja organizuje pracę szkoły, nauczyciele prowadzą zajęcia, a uczniowie i rodzice potrzebują wygodnego dostępu do materiałów i informacji. Rozwiązanie rozwijam w kontakcie z odbiorcą, dopasowując widoki i przepływy do codziennej pracy.
+
 ## Mój zakres pracy
 Od rozpoznania potrzeb i projektowania przepływów przez implementację po wdrożenie, utrzymanie i poprawki. Projekt łączy rozwój produktu z praktyczną obsługą środowiska aplikacji.
 

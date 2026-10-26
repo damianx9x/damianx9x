@@ -16,6 +16,10 @@ Buduję Ekspertykę — rozwijany portal narzędziowy. Obecny zakres obejmuje Ge
 - Podgląd i generowanie raportów PDF.
 - Rozwój spójnego interfejsu dla wariantu online i desktopowego.
 
+## GeoWyceny
+
+Pierwszy rozwijany produkt portalu koncentruje się na analizie działek i przygotowaniu opracowań, początkowo z myślą o sprawach dotyczących służebności przesyłu. Użytkownik może pracować z mapą i informacjami o działce, zapisać opracowanie oraz przygotować podgląd raportu. Kierunkiem dalszego rozwoju jest również ułatwienie kontaktu ze specjalistą.
+
 ## Mój zakres pracy
 Projektowanie produktu i interfejsu, implementacja, integracja danych, publikacja oraz utrzymanie. Szczególną uwagę poświęcam uproszczeniu drogi od danych wejściowych do gotowego dokumentu.
 

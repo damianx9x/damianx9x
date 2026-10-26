@@ -1,26 +1,35 @@
 # JARVIS
 
-**Osobisty asystent AI · kontekst · automatyzacja**
+**Osobisty asystent AI · pamięć kontekstu · organizacja pracy**
 
 [← Portfolio](../README.md)
 
-## Problem
-Wiedza i zadania rozproszone między rozmowami, urządzeniami i projektami utrudniają kontynuację pracy. Sam model językowy nie wystarcza do zachowania spójnego kontekstu.
+## Po co powstał?
 
-## Rozwiązanie
-Rozwijam JARVIS-a: osobistego asystenta łączącego rozmowę, uporządkowany kontekst i narzędzia do realizacji zadań. Projekt obejmuje zarządzanie informacją, wyszukiwanie potrzebnego kontekstu oraz koordynację pracy nad projektami.
+Praca nad wieloma projektami oznacza mnóstwo decyzji, ustaleń i rozpoczętych tematów. Część znajduje się w rozmowach, część w dokumentach, a część w narzędziach używanych na różnych urządzeniach. Po przerwie trudno szybko ustalić, co już zostało zrobione i jaki powinien być kolejny krok.
 
-## Jak działa projekt
+JARVIS to mój sposób na uporządkowanie tego kontekstu i wykorzystanie go w codziennej pracy z AI.
 
-JARVIS porządkuje kontekst dotyczący projektów, decyzji i otwartych spraw, tak aby można było do nich wrócić w kolejnej rozmowie. Łączy interfejs webowy z narzędziami i lokalnymi usługami, a informacje aktualizuje w uporządkowanym repozytorium. Ważną częścią projektu jest kontrola dostępu i rozdzielenie danych prywatnych od publicznej prezentacji.
+## Co robi?
 
-## Mój zakres pracy
-- Projektowanie reguł pamięci i aktualizacji kontekstu.
-- Integracja interfejsu rozmowy z narzędziami i automatyzacjami.
-- Rozwój panelu webowego oraz testowanie przepływów pracy.
-- Kontrola jakości odpowiedzi i rozróżnianie planu od potwierdzonego wyniku.
+Asystent pomaga wracać do projektów i wcześniej podjętych decyzji, wyszukiwać potrzebne informacje oraz prowadzić zadania z uwzględnieniem ich aktualnego stanu. Kontekst przechowywany jest w uporządkowanym repozytorium, a dostęp do niego wspierają interfejs rozmowy, panel webowy i narzędzia.
+
+Projekt łączy rozwiązania chmurowe z usługami działającymi lokalnie. Poszczególne integracje rozwijam i sprawdzam osobno — ich obecność nie oznacza automatycznej synchronizacji wszystkich źródeł.
+
+## Najważniejsze obszary
+
+- **Kontekst i pamięć** — porządkowanie informacji o projektach, decyzjach i otwartych sprawach.
+- **Praca z AI** — wykorzystanie właściwego kontekstu do rozmowy i realizacji zadań.
+- **Narzędzia i integracje** — łączenie interfejsu z usługami wspierającymi pracę.
+- **Kontrola jakości** — rozróżnianie potwierdzonych rezultatów, planów i informacji wymagających sprawdzenia.
+- **Prywatność** — ograniczenie dostępu i oddzielenie danych prywatnych od publicznej prezentacji.
+
+## Moja rola
+
+Projektuję sposób organizacji informacji i przepływy pracy, rozwijam panel oraz integracje, a także testuję działanie całości w praktyce. Zależy mi na tym, żeby asystent pomagał kontynuować pracę, a nie tylko odpowiadał na pojedyncze pytania.
 
 ## Status
-Projekt rozwijany i używany we własnym środowisku. Poszczególne integracje mają różny stopień dojrzałości; nie jest to deklaracja kompletnej automatyzacji ani synchronizacji wszystkich źródeł.
 
-**Publiczna karta projektu. Kod, prywatny kontekst i konfiguracja pozostają niepubliczne.**
+Projekt jest rozwijany i używany we własnym środowisku. Funkcje i integracje znajdują się na różnych etapach rozwoju.
+
+Kod, prywatny kontekst i konfiguracja pozostają niepubliczne.

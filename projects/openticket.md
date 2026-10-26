@@ -17,4 +17,4 @@ Uporządkowanie pracy serwisu: od przyjęcia urządzenia i opisu problemu po śl
 ## Status
 Projekt w linii pre-alpha. Publiczna karta przedstawia zakres produktu; nie jest deklaracją gotowości produkcyjnej wszystkich wariantów i instalatorów.
 
-**Kod źródłowy i repozytorium wykonawcze pozostają prywatne.**
+**Ta karta skupia się na produkcie i jego zastosowaniu; nie zawiera kodu ani konfiguracji.**

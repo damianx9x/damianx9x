@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center"><img src="assets/profile-banner.svg" alt="Damian Eron — aplikacje, automatyzacja i AI" width="100%"></p>
 
-<!--
-**damianx9x/damianx9x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tworzę aplikacje i automatyzacje, które rozwiązują konkretne problemy. Łączę doświadczenie w obsłudze IT z rozwojem oprogramowania, integracjami AI i elektroniką. Interesuje mnie cały proces: od zrozumienia potrzeby, przez działający produkt, po jego utrzymanie.
 
-Here are some ideas to get you started:
+## Wybrane projekty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Projekt | Co tworzę | Prezentacja |
+| :--- | :--- | :--- |
+| **JARVIS** | Osobisty asystent AI łączący kontekst, narzędzia i organizację pracy. | [Karta projektu →](projects/jarvis.md) |
+| **eDziennik** | Aplikacja webowa wspierająca organizację szkoły językowej. | [Karta projektu →](projects/edziennik.md) |
+| **Ekspertyka** | Portal narzędziowy: GeoWyceny, dokumenty i raporty. | [Karta projektu →](projects/ekspertyka.md) · [Strona ↗](https://ekspertyka.pl/) |
+
+Powyższe karty pokazują zastosowanie i zakres mojej pracy. Kod źródłowy, konfiguracja i dane tych projektów pozostają prywatne.
+
+## Publiczne repozytoria
+
+- **[OpenTicket](https://github.com/damianx9x/OpenTicket)** — system obsługi zgłoszeń dla serwisów elektroniki; aplikacja webowa i desktopowa.
+- **[LGOFFB](https://github.com/damianx9x/LGOFFB)** — generator skryptu offboardingu Google Workspace z instrukcją i trybem DRY RUN.
+- **[Lampa Portal S3](https://github.com/damianx9x/lampkav2)** — projekt lampy LED z ESP32, interfejsem webowym i animacjami.
+
+## Obszary pracy
+
+**Aplikacje webowe i desktopowe** · **Automatyzacja IT** · **Integracje AI** · **Elektronika i druk 3D**
+
+Pracuję iteracyjnie: rozpoznanie problemu → mały działający rezultat → testy → poprawki. W opisach oddzielam dostępne funkcje od planów rozwoju.
+
+---
+
+Chcesz zobaczyć mój sposób pracy? Zacznij od kart projektów lub dokumentacji publicznych repozytoriów.

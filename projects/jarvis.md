@@ -10,6 +10,10 @@ Wiedza i zadania rozproszone między rozmowami, urządzeniami i projektami utrud
 ## Rozwiązanie
 Rozwijam JARVIS-a: osobistego asystenta łączącego rozmowę, uporządkowany kontekst i narzędzia do realizacji zadań. Projekt obejmuje zarządzanie informacją, wyszukiwanie potrzebnego kontekstu oraz koordynację pracy nad projektami.
 
+## Jak działa projekt
+
+JARVIS porządkuje kontekst dotyczący projektów, decyzji i otwartych spraw, tak aby można było do nich wrócić w kolejnej rozmowie. Łączy interfejs webowy z narzędziami i lokalnymi usługami, a informacje aktualizuje w uporządkowanym repozytorium. Ważną częścią projektu jest kontrola dostępu i rozdzielenie danych prywatnych od publicznej prezentacji.
+
 ## Mój zakres pracy
 - Projektowanie reguł pamięci i aktualizacji kontekstu.
 - Integracja interfejsu rozmowy z narzędziami i automatyzacjami.

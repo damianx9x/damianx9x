@@ -1,29 +1,31 @@
 # eDziennik
 
-**Aplikacja do zarządzania szkołą językową**
+**Aplikacja webowa dla szkoły językowej**
 
 [← Portfolio](../README.md)
 
-## Problem
-Organizacja szkoły wymaga połączenia informacji o zajęciach, uczestnikach i komunikacji w jednym czytelnym miejscu.
+## Po co powstał?
 
-## Rozwiązanie
-Rozwijam eDziennik dla szkoły językowej: aplikację webową wspierającą codzienną organizację pracy i dostęp do informacji odpowiedni do roli użytkownika.
+Organizacja szkoły językowej to coś więcej niż plan zajęć. Administracja, nauczyciele, uczniowie i rodzice potrzebują dostępu do różnych informacji, a codzienna praca obejmuje także komunikację, materiały i obsługę kartotek.
 
-## Zakres projektu
-- Organizacja zajęć, grup i kartotek.
-- Widoki dla administracji, nauczycieli, uczniów i rodziców.
-- Komunikacja oraz praca z materiałami i zadaniami.
-- Rozwój interfejsu na podstawie informacji zwrotnych użytkowników.
+eDziennik rozwijam dla konkretnej szkoły, aby zebrać te obszary w jednym miejscu i dopasować sposób pracy do jej rzeczywistych potrzeb.
 
-## Dla kogo powstaje
+## Co obejmuje projekt?
 
-Projekt odpowiada na potrzeby szkoły językowej, w której z tych samych informacji korzystają różne osoby. Administracja organizuje pracę szkoły, nauczyciele prowadzą zajęcia, a uczniowie i rodzice potrzebują wygodnego dostępu do materiałów i informacji. Rozwiązanie rozwijam w kontakcie z odbiorcą, dopasowując widoki i przepływy do codziennej pracy.
+- **Organizacja szkoły** — zajęcia, grupy i kartoteki.
+- **Widoki dla różnych ról** — przestrzeń dla administracji, nauczycieli, uczniów i rodziców.
+- **Komunikacja** — wymiana informacji związanych z codzienną pracą szkoły.
+- **Nauka** — praca z materiałami i zadaniami.
+- **Rozwój na podstawie feedbacku** — poprawianie widoków i przepływów po prezentacjach i rozmowach z odbiorcą.
 
-## Mój zakres pracy
-Od rozpoznania potrzeb i projektowania przepływów przez implementację po wdrożenie, utrzymanie i poprawki. Projekt łączy rozwój produktu z praktyczną obsługą środowiska aplikacji.
+Zakres pokazuje kierunek i obszary projektu; dostępność poszczególnych funkcji zależy od wersji i wdrożenia.
+
+## Jak nad nim pracuję?
+
+Zaczynam od zrozumienia, jak szkoła działa na co dzień i czego potrzebują poszczególne osoby. Następnie projektuję widoki i przepływy, wdrażam rozwiązania oraz zbieram uwagi do kolejnych poprawek. Praca obejmuje zarówno samą aplikację, jak i utrzymanie jej środowiska.
+
+To projekt, w którym szczególnie ważne są czytelność, dostęp odpowiedni do roli oraz ostrożne podejście do danych użytkowników.
 
 ## Status
-Projekt rozwijany dla konkretnego odbiorcy, prezentowany i dopracowywany na podstawie jego potrzeb. Ta karta opisuje zakres pracy, nie gwarantuje dostępności każdej funkcji w każdym wdrożeniu.
 
-**Kod i środowisko z danymi użytkowników są prywatne. Publiczna prezentacja nie zawiera danych szkoły ani jej użytkowników.**
+Aplikacja jest rozwijana dla konkretnego odbiorcy. Kod i środowisko z danymi użytkowników pozostają prywatne.

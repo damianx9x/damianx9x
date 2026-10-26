@@ -1,29 +1,35 @@
-# Ekspertyka
+# Ekspertyka i GeoWyceny
 
-**Narzędzia do pracy z analizami i dokumentami**
+**Narzędzia dla osób pracujących z analizą nieruchomości i dokumentami**
 
 [← Portfolio](../README.md) · [Otwórz Ekspertyka.pl](https://ekspertyka.pl/)
 
-## Problem
-Praca nad opracowaniem wymaga zebrania danych, uporządkowania informacji i przygotowania czytelnego dokumentu. Ręczne przenoszenie treści między narzędziami zwiększa liczbę powtarzalnych czynności.
+## Skąd pomysł?
 
-## Rozwiązanie
-Buduję Ekspertykę — rozwijany portal narzędziowy. Obecny zakres obejmuje GeoWyceny oraz pracę z dokumentami. Kolejne specjalizacje pozostają kierunkiem rozwoju.
+Przygotowanie opracowania wymaga zebrania danych, sprawdzenia informacji o działce i przeniesienia wyników do czytelnego dokumentu. Powtarzalna praca między mapą, danymi i edytorem zajmuje czas, który specjalista mógłby poświęcić na właściwą analizę.
 
-## Obecny zakres prezentacji
-- GeoWyceny: praca z informacjami o działce i opracowaniem.
-- Narzędzia do tworzenia i porządkowania dokumentów.
-- Podgląd i generowanie raportów PDF.
-- Rozwój spójnego interfejsu dla wariantu online i desktopowego.
+Ekspertyka to rozwijany przeze mnie portal narzędziowy. Pierwszym produktem są **GeoWyceny**, tworzone z myślą o rzeczoznawcach majątkowych i biegłych sądowych — początkowo przy sprawach związanych ze służebnością przesyłu.
 
-## GeoWyceny
+## GeoWyceny w praktyce
 
-Pierwszy rozwijany produkt portalu koncentruje się na analizie działek i przygotowaniu opracowań, początkowo z myślą o sprawach dotyczących służebności przesyłu. Użytkownik może pracować z mapą i informacjami o działce, zapisać opracowanie oraz przygotować podgląd raportu. Kierunkiem dalszego rozwoju jest również ułatwienie kontaktu ze specjalistą.
+Punktem wyjścia jest działka. Aplikacja pomaga pracować z jej informacjami i mapą, uporządkować dane w opracowaniu oraz przygotować podgląd raportu PDF. Projekt rozwijam zarówno w wariancie online, jak i desktopowym.
 
-## Mój zakres pracy
-Projektowanie produktu i interfejsu, implementacja, integracja danych, publikacja oraz utrzymanie. Szczególną uwagę poświęcam uproszczeniu drogi od danych wejściowych do gotowego dokumentu.
+Celem jest ograniczenie ręcznego przepisywania i uporządkowanie drogi od danych wejściowych do dokumentu. Narzędzie wspiera pracę specjalisty; nie zastępuje podpisanej opinii osoby z odpowiednimi uprawnieniami.
+
+## Nad czym pracuję?
+
+- Czytelny sposób rozpoczęcia analizy działki.
+- Praca z mapą i informacjami potrzebnymi do opracowania.
+- Zapisywanie pracy, podgląd i przygotowanie raportów.
+- Spójny interfejs dla wersji online i desktopowej.
+- Rozwój portalu, który w przyszłości ma również ułatwiać znalezienie właściwego specjalisty.
+
+## Moja rola
+
+Prowadzę projekt od rozpoznania problemu i projektowania produktu, przez interfejs i implementację, po integrację danych, publikację i utrzymanie. Rozwijam go etapami, sprawdzając pomysły w działającej aplikacji i zbierając uwagi od potencjalnych użytkowników.
 
 ## Status
-Publiczny portal i rozwijany pilot produktu. Pozostałe moduły oznaczone jako planowane nie są prezentowane jako gotowe. Narzędzie nie zastępuje podpisanej opinii uprawnionego specjalisty.
 
-**Publiczne jest zastosowanie produktu; kod źródłowy i konfiguracja pozostają prywatne.**
+Ekspertyka jest publicznie dostępna, a GeoWyceny pozostają na wczesnym etapie rozwoju. Planowane funkcje nie są deklaracją ich obecnej dostępności.
+
+Kod źródłowy i konfiguracja pozostają prywatne.

@@ -11,7 +11,7 @@ Tworzę aplikacje i automatyzacje, które rozwiązują konkretne problemy. Łąc
 | **OpenTicket** | System obsługi zgłoszeń dla serwisów elektroniki. | [Karta projektu →](projects/openticket.md) |
 | **Ekspertyka** | Portal narzędziowy: GeoWyceny, dokumenty i raporty. | [Karta projektu →](projects/ekspertyka.md) · [Strona ↗](https://ekspertyka.pl/) |
 
-Powyższe karty pokazują zastosowanie i zakres mojej pracy. Kod źródłowy, konfiguracja i dane tych projektów pozostają prywatne.
+Karty projektów pokazują zastosowanie i zakres mojej pracy. Nie zawierają kodu źródłowego, konfiguracji ani danych użytkowników.
 
 ## Publiczne repozytoria
 
